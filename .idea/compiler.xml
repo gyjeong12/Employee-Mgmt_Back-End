@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="springboot-backend" target="11" />
+      <module name="springboot-backend" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
